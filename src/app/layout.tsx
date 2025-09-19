@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import "./body-bg.css";
-import { Montserrat, Inter } from "next/font/google"; // <— font judul & Inter
+import { Montserrat, Inter } from "next/font/google"; 
 
 export const metadata: Metadata = {
   title: "Al-Fath Guessing Game",
